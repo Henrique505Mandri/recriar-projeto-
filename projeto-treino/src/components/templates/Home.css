@@ -1,0 +1,5 @@
+.home-template {
+  margin: 5rem auto;
+  display: grid;
+  grid-gap: 5rem;
+}

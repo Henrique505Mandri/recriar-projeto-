@@ -1,0 +1,25 @@
+.nav-item {
+  color: #293947;
+  text-decoration: none;
+  font-size: 1.3rem;
+}
+.social-link {
+  background-color: #ff895f;
+  width: 47px;
+  height: 47px;
+  border-radius: 5rem;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  transition: transform 0.2s linear;
+  &:hover {
+    transform: scale(1.1);
+  }
+  img {
+    width: 23px;
+    height: 23px;
+  }
+}
+.logo {
+  width: 100%;
+}
